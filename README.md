@@ -7,6 +7,8 @@ write 'b'
 to exit:
 write 'X' (it does not erase the X from the file though)
 
+to receive the facts, simply read them from the microservice!
+
 if you want to add or remove facts, simply add them to facts.txt (before you open the microservice) separated by a newline
 
 ![alt text](image-2.png)
