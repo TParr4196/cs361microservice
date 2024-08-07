@@ -1,3 +1,16 @@
+To request a fact from the microservice: 
+write 'n' to fact-service.txt
+
+to request the last fact:
+write 'b'
+
+to exit:
+write 'X' (it does not erase the X from the file though)
+
+if you want to add or remove facts, simply add them to facts.txt (before you open the microservice) separated by a newline
+
+![alt text](image-2.png)
+
 Facts are from:
 https://www.lowermybills.com/learn/buying-a-home/surprising-facts-about-buying-a-home/
 If you want to add more or take some out, just make sure each fact in facts.txt is on its own line in the file.
